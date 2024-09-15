@@ -1,6 +1,13 @@
 
 # [ShinyDevSeries](https://shinydevseries.com/) - Barret Schloerke
 
+### Interview Links
+
+* https://shinydevseries.com/interview/ep012/
+* https://shinydevseries.com/interview/ep013/
+* https://shinydevseries.com/interview/ep014/
+
+# Outline
 
 * `reactlog`
   * `reactlog` provides a visual insight into that _black box_ of Shiny reactivity
